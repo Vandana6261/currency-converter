@@ -1,24 +1,40 @@
-# Browser Extensions Manager Page
+# Currency Converter App
 
-This is a live deployment of the project:
-
-🔗 Live Link: https://browser-extensions-manager-page-fshs6ddmy.vercel.app/
+A simple and fast currency converter web application.
 
 ---
 
-## Description
-This project is a browser extensions manager interface where users can view and manage extensions.
+## 🌐 Live Demo
+https://currency-converter-alpha-steel.vercel.app/
 
 ---
 
-## Features
-- View installed extensions
-- Enable / Disable extensions
-- Clean and simple UI
+## 📸 Project Preview
+
+![Currency Converter Preview](currency-converter-preview.png)
+
+---
+
+## 📌 Description
+This project allows users to convert currencies in real-time with a clean and responsive interface.
+
+---
+
+## 🚀 Features
+- Real-time currency conversion
+- Swap functionality between currencies
+- Clean and minimal UI
 - Responsive design
 
 ---
 
-## Live Demo
-Click here to open the app:  
-https://browser-extensions-manager-page-fshs6ddmy.vercel.app/
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- API integration
+
+---
+
+## 🔗 Live Project
+https://currency-converter-alpha-steel.vercel.app/
