@@ -9,12 +9,6 @@ https://currency-converter-alpha-steel.vercel.app/
 
 ---
 
-## 📸 Project Preview
-
-![Currency Converter Preview](currency-converter-preview.png)
-
----
-
 ## 📌 Description
 This project allows users to convert currencies in real-time with a clean and responsive interface.
 
